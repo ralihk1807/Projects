@@ -1,5 +1,6 @@
 # Projects
 This Repository contains some codes that I have worked on.
 <br>
-Download all files to the same folder to run them smoothly.
+Download all files and folders in this repository to the same folder to run them.
+
 
